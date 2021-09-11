@@ -20,6 +20,6 @@ object PhoenixHbase {
 df.show()
 
     //  .options(Map("table" -> "TABLE1", PhoenixDataSource.ZOOKEEPER_URL -> "phoenix-server:2181"))
- //
+ 
   }
 }
